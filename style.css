@@ -1,3 +1,14 @@
-h2 {
+body {
+    background-color: #696969
+}
+
+.adam {
     color: #069;
+    background-color: #f26;
+    display: inline-block;
+}
+.rachel {
+    color: #904;
+    background-color: #07d;
+    display: inline-block;
 }
