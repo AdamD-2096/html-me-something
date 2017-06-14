@@ -1,14 +1,39 @@
 body {
-    background-color: #696969
+    background-color: #15E8E5;
+    color: #EB0019;
+    width: 50em;
+    margin: auto;
+    text-shadow: 0.2em 0.1em #125AEA;  
 }
 
-.adam {
-    color: #069;
-    background-color: #f26;
-    display: inline-block;
+img {
+    display: block;
+    margin: 0 auto;
+    padding-top: 2em;
+    padding-bottom: 4em;
 }
-.rachel {
-    color: #904;
-    background-color: #07d;
-    display: inline-block;
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.leela {
+    color: #8209DC; 
+    text-shadow: 0.2em 0.1em #FB8107;   
+}
+
+#short {
+    font-size: 1.5em;
+}
+a {
+    color: #EB0019;  
+    text-decoration: none;
+}
+a:hover {
+    color: #125AEA;
+    text-shadow: 0.2em 0.1em #EB0019;
 }
